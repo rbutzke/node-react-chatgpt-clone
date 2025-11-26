@@ -12,7 +12,7 @@ Clone do chatgpt utilizando integração com o algoritmo da OpenAI
 <img src="" title="ChatGPT">
 </p> -->
 
-# O que foi utilizado
+# Tecnologias Utilizadas:
 
 ### Backend
   - Node
